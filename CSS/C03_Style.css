@@ -1,0 +1,16 @@
+/*C03_Style.css*/
+@charset "UTF-8";
+ /*글자부터 지정*/
+
+ * {
+     color: gray;
+ }
+
+ h3 {
+     color: orange;
+ }
+
+ p {
+     color: lightgray;
+     line-height: 1.5em;
+ }
